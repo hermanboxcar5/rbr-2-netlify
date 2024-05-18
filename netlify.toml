@@ -1,10 +1,5 @@
 [[redirects]]
-  from = "/rbr/*"
+  from = "/*"
   status = 200
   to = "https://rocketbotroyale.winterpixel.io/:splat"
-  force = false
-[[redirects]]
-  from = "/gd*"
-  status = 200
-  to = "https://gooberdash.winterpixel.io/:splat"
   force = false
